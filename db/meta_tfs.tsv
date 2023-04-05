@@ -1,0 +1,156 @@
+TF_Name	chr	Entrez_ID	Ensembl_ID	HGNC_ID	description	UniProtKB	protein_class	JASPAR2022_Collection
+ARID3A	19	1820	ENSG00000116017	3031	AT-rich interaction domain 3A [Source:HGNC Symbol;Acc:HGNC:3031]	Q99856	DNA-binding transcription factor	
+ARNT	1	405	ENSG00000143437	700	aryl hydrocarbon receptor nuclear translocator [Source:HGNC Symbol;Acc:HGNC:700]	P27540	basic helix-loop-helix transcription factor	
+ASH2L	8	9070	ENSG00000129691	744	ASH2 like, histone lysine methyltransferase complex subunit [Source:HGNC Symbol;Acc:HGNC:744]	Q9UBL3	histone modifying enzyme	
+ATF2	2	1386	ENSG00000115966	784	activating transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:784]	P15336	basic leucine zipper transcription factor	CORE
+ATF3	1	467	ENSG00000162772	785	activating transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:785]	P18847	basic leucine zipper transcription factor	CORE
+ATF7	12	11016	ENSG00000170653	792	activating transcription factor 7 [Source:HGNC Symbol;Acc:HGNC:792]	P17544	basic leucine zipper transcription factor	CORE
+BACH1	21	571	ENSG00000156273	935	BTB domain and CNC homolog 1 [Source:HGNC Symbol;Acc:HGNC:935]	O14867	C2H2 zinc finger transcription factor	CORE
+BATF	14	10538	ENSG00000156127	958	basic leucine zipper ATF-like transcription factor [Source:HGNC Symbol;Acc:HGNC:958]	Q16520	basic leucine zipper transcription factor	CORE
+BATF3	1	55509	ENSG00000123685	28915	basic leucine zipper ATF-like transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:28915]	Q9NR55	basic leucine zipper transcription factor	CORE
+BCL11A	2	53335	ENSG00000119866	13221	BAF chromatin remodeling complex subunit BCL11A [Source:HGNC Symbol;Acc:HGNC:13221]	Q9H165	C2H2 zinc finger transcription factor	
+BCL3	19	602	ENSG00000069399	998	BCL3 transcription coactivator [Source:HGNC Symbol;Acc:HGNC:998]	P20749	membrane traffic protein	
+BCLAF1	6	9774	ENSG00000029363	16863	BCL2 associated transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:16863]	Q9NYF8	DNA metabolism protein	
+BHLHE40	3	8553	ENSG00000134107	1046	basic helix-loop-helix family member e40 [Source:HGNC Symbol;Acc:HGNC:1046]	O14503	basic helix-loop-helix transcription factor	CORE
+BMI1	10	648	ENSG00000168283	1066	BMI1 proto-oncogene, polycomb ring finger [Source:HGNC Symbol;Acc:HGNC:1066]			
+BRCA1	17	672	ENSG00000012048	1100	BRCA1 DNA repair associated [Source:HGNC Symbol;Acc:HGNC:1100]	P38398	ubiquitin-protein ligase	
+CBFB	16	865	ENSG00000067955	1539	core-binding factor subunit beta [Source:HGNC Symbol;Acc:HGNC:1539]	Q13951	DNA-binding transcription factor	
+CBX5	12	23468	ENSG00000094916	1555	chromobox 5 [Source:HGNC Symbol;Acc:HGNC:1555]			
+CEBPB	20	1051	ENSG00000172216	1834	CCAAT enhancer binding protein beta [Source:HGNC Symbol;Acc:HGNC:1834]	P17676	basic leucine zipper transcription factor	CORE
+CEBPZ	2	10153	ENSG00000115816	24218	CCAAT enhancer binding protein zeta [Source:HGNC Symbol;Acc:HGNC:24218]	Q03701	DNA-binding transcription factor	
+CHD1	5	1105	ENSG00000153922	1915	chromodomain helicase DNA binding protein 1 [Source:HGNC Symbol;Acc:HGNC:1915]	O14646	chromatin/chromatin-binding, or -regulatory protein	
+CHD2	15	1106	ENSG00000173575	1917	chromodomain helicase DNA binding protein 2 [Source:HGNC Symbol;Acc:HGNC:1917]	O14647	chromatin/chromatin-binding, or -regulatory protein	
+CHD4	12	1108	ENSG00000111642	1919	chromodomain helicase DNA binding protein 4 [Source:HGNC Symbol;Acc:HGNC:1919]	Q14839	chromatin/chromatin-binding, or -regulatory protein	
+CREB1	2	1385	ENSG00000118260	2345	cAMP responsive element binding protein 1 [Source:HGNC Symbol;Acc:HGNC:2345]			CORE
+CREM	10	1390	ENSG00000095794	2352	cAMP responsive element modulator [Source:HGNC Symbol;Acc:HGNC:2352]			CORE
+CTCF	16	10664	ENSG00000102974	13723	CCCTC-binding factor [Source:HGNC Symbol;Acc:HGNC:13723]	P49711	C2H2 zinc finger transcription factor	CORE
+CUX1	7	1523	ENSG00000257923	2557	cut like homeobox 1 [Source:HGNC Symbol;Acc:HGNC:2557]	P39880	homeodomain transcription factor	CORE
+DPF2	11	5977	ENSG00000133884	9964	double PHD fingers 2 [Source:HGNC Symbol;Acc:HGNC:9964]			
+DRAP1	11	10589	ENSG00000175550	3019	DR1 associated protein 1 [Source:HGNC Symbol;Acc:HGNC:3019]	Q14919	DNA-binding transcription factor	
+E2F4	16	1874	ENSG00000205250	3118	E2F transcription factor 4 [Source:HGNC Symbol;Acc:HGNC:3118]	Q16254	general transcription factor	CORE
+E2F8	11	79733	ENSG00000129173	24727	E2F transcription factor 8 [Source:HGNC Symbol;Acc:HGNC:24727]	A0AVK6	general transcription factor	CORE
+E4F1	16	1877	ENSG00000167967	3121	E4F transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:3121]	Q66K89	C2H2 zinc finger transcription factor	
+EBF1	5	1879	ENSG00000164330	3126	EBF transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:3126]	Q9UH73	DNA-binding transcription factor	CORE
+EGR1	5	1958	ENSG00000120738	3238	early growth response 1 [Source:HGNC Symbol;Acc:HGNC:3238]	P18146	C2H2 zinc finger transcription factor	CORE
+ELF1	13	1997	ENSG00000120690	3316	E74 like ETS transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:3316]	P32519	winged helix/forkhead transcription factor	CORE
+ELK1	X	2002	ENSG00000126767	3321	ETS transcription factor ELK1 [Source:HGNC Symbol;Acc:HGNC:3321]	P19419	winged helix/forkhead transcription factor	CORE
+EP300	22	2033	ENSG00000100393	3373	E1A binding protein p300 [Source:HGNC Symbol;Acc:HGNC:3373]	Q09472	histone modifying enzyme	
+ESRRA	11	2101	ENSG00000173153	3471	estrogen related receptor alpha [Source:HGNC Symbol;Acc:HGNC:3471]	P11474	C4 zinc finger nuclear receptor	CORE
+ETS1	11	2113	ENSG00000134954	3488	ETS proto-oncogene 1, transcription factor [Source:HGNC Symbol;Acc:HGNC:3488]	P14921	winged helix/forkhead transcription factor	CORE
+ETV6	12	2120	ENSG00000139083	3495	ETS variant transcription factor 6 [Source:HGNC Symbol;Acc:HGNC:3495]	P41212	winged helix/forkhead transcription factor	CORE
+EZH2	7	2146	ENSG00000106462	3527	enhancer of zeste 2 polycomb repressive complex 2 subunit [Source:HGNC Symbol;Acc:HGNC:3527]	Q15910	histone modifying enzyme	
+FOS	14	2353	ENSG00000170345	3796	Fos proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:3796]	P01100	basic leucine zipper transcription factor	CORE
+FOXK2	17	3607	ENSG00000141568	6036	forkhead box K2 [Source:HGNC Symbol;Acc:HGNC:6036]			CORE
+FOXM1	12	2305	ENSG00000111206	3818	forkhead box M1 [Source:HGNC Symbol;Acc:HGNC:3818]			
+GABPA	21	2551	ENSG00000154727	4071	GA binding protein transcription factor subunit alpha [Source:HGNC Symbol;Acc:HGNC:4071]	Q06546	winged helix/forkhead transcription factor	CORE
+GATAD2B	1	57459	ENSG00000143614	30778	GATA zinc finger domain containing 2B [Source:HGNC Symbol;Acc:HGNC:30778]	Q8WXI9	DNA-binding transcription factor	
+GTF2F1	19	2962	ENSG00000125651	4652	general transcription factor IIF subunit 1 [Source:HGNC Symbol;Acc:HGNC:4652]	P35269	general transcription factor	
+HCFC1	X	3054	ENSG00000172534	4839	host cell factor C1 [Source:HGNC Symbol;Acc:HGNC:4839]			
+HDAC2	6	3066	ENSG00000196591	4853	histone deacetylase 2 [Source:HGNC Symbol;Acc:HGNC:4853]	Q92769	histone modifying enzyme	
+HDAC6	X	10013	ENSG00000094631	14064	histone deacetylase 6 [Source:HGNC Symbol;Acc:HGNC:14064]	Q9UBN7	histone modifying enzyme	
+HSF1	8	3297	ENSG00000185122	5224	heat shock transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:5224]	Q00613	winged helix/forkhead transcription factor	CORE
+IKZF1	7	10320	ENSG00000185811	13176	IKAROS family zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:13176]	Q13422	C2H2 zinc finger transcription factor	CORE
+IKZF2	2	22807	ENSG00000030419	13177	IKAROS family zinc finger 2 [Source:HGNC Symbol;Acc:HGNC:13177]	Q9UKS7	C2H2 zinc finger transcription factor	
+IRF3	19	3661	ENSG00000126456	6118	interferon regulatory factor 3 [Source:HGNC Symbol;Acc:HGNC:6118]	Q14653	winged helix/forkhead transcription factor	CORE
+IRF4	6	3662	ENSG00000137265	6119	interferon regulatory factor 4 [Source:HGNC Symbol;Acc:HGNC:6119]	Q15306	winged helix/forkhead transcription factor	CORE
+IRF5	7	3663	ENSG00000128604	6120	interferon regulatory factor 5 [Source:HGNC Symbol;Acc:HGNC:6120]	Q13568	winged helix/forkhead transcription factor	CORE
+JUNB	19	3726	ENSG00000171223	6205	JunB proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6205]	P17275	basic leucine zipper transcription factor	CORE
+JUND	19	3727	ENSG00000130522	6206	JunD proto-oncogene, AP-1 transcription factor subunit [Source:HGNC Symbol;Acc:HGNC:6206]	P17535	basic leucine zipper transcription factor	CORE
+KLF5	13	688	ENSG00000102554	6349	Kruppel like factor 5 [Source:HGNC Symbol;Acc:HGNC:6349]	Q13887	C2H2 zinc finger transcription factor	CORE
+MAFF	22	23764	ENSG00000185022	6780	MAF bZIP transcription factor F [Source:HGNC Symbol;Acc:HGNC:6780]	Q9ULX9	basic leucine zipper transcription factor	CORE
+MAFK	7	7975	ENSG00000198517	6782	MAF bZIP transcription factor K [Source:HGNC Symbol;Acc:HGNC:6782]	O60675	basic leucine zipper transcription factor	CORE
+MAX	14	4149	ENSG00000125952	6913	MYC associated factor X [Source:HGNC Symbol;Acc:HGNC:6913]	P61244	basic helix-loop-helix transcription factor	CORE
+MAZ	16	4150	ENSG00000103495	6914	MYC associated zinc finger protein [Source:HGNC Symbol;Acc:HGNC:6914]	P56270	C2H2 zinc finger transcription factor	CORE
+MED1	17	5469	ENSG00000125686	9234	mediator complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:9234]	Q15648	general transcription factor	
+MEF2A	15	4205	ENSG00000068305	6993	myocyte enhancer factor 2A [Source:HGNC Symbol;Acc:HGNC:6993]	Q02078	MADS box transcription factor	CORE
+MEF2B	19	100271849	ENSG00000213999	6995	myocyte enhancer factor 2B [Source:HGNC Symbol;Acc:HGNC:6995]	Q02080	MADS box transcription factor	CORE
+MEF2C	5	4208	ENSG00000081189	6996	myocyte enhancer factor 2C [Source:HGNC Symbol;Acc:HGNC:6996]	Q06413	MADS box transcription factor	CORE
+MLLT1	19	4298	ENSG00000130382	7134	MLLT1 super elongation complex subunit [Source:HGNC Symbol;Acc:HGNC:7134]			
+MTA2	11	9219	ENSG00000149480	7411	metastasis associated 1 family member 2 [Source:HGNC Symbol;Acc:HGNC:7411]	O94776	homeodomain transcription factor	
+MTA3	2	57504	ENSG00000057935	23784	metastasis associated 1 family member 3 [Source:HGNC Symbol;Acc:HGNC:23784]	Q9BTC8	homeodomain transcription factor	
+MXI1	10	4601	ENSG00000119950	7534	MAX interactor 1, dimerization protein [Source:HGNC Symbol;Acc:HGNC:7534]	P50539	basic helix-loop-helix transcription factor	CORE
+MYB	6	4602	ENSG00000118513	7545	MYB proto-oncogene, transcription factor [Source:HGNC Symbol;Acc:HGNC:7545]			CORE
+MYC	8	4609	ENSG00000136997	7553	MYC proto-oncogene, bHLH transcription factor [Source:HGNC Symbol;Acc:HGNC:7553]	P01106	basic helix-loop-helix transcription factor	CORE
+NBN	8	4683	ENSG00000104320	7652	nibrin [Source:HGNC Symbol;Acc:HGNC:7652]	O60934	damaged DNA-binding protein	
+NFATC1	18	4772	ENSG00000131196	7775	nuclear factor of activated T cells 1 [Source:HGNC Symbol;Acc:HGNC:7775]	O95644	Rel homology transcription factor	
+NFATC3	16	4775	ENSG00000072736	7777	nuclear factor of activated T cells 3 [Source:HGNC Symbol;Acc:HGNC:7777]	Q12968	Rel homology transcription factor	CORE
+NFE2	12	4778	ENSG00000123405	7780	nuclear factor, erythroid 2 [Source:HGNC Symbol;Acc:HGNC:7780]	Q16621	basic leucine zipper transcription factor	CORE
+NFIC	19	4782	ENSG00000141905	7786	nuclear factor I C [Source:HGNC Symbol;Acc:HGNC:7786]	P08651	DNA-binding transcription factor	CORE
+NFXL1	4	152518	ENSG00000170448	18726	nuclear transcription factor, X-box binding like 1 [Source:HGNC Symbol;Acc:HGNC:18726]	Q6ZNB6	zinc finger transcription factor	
+NFYA	6	4800	ENSG00000001167	7804	nuclear transcription factor Y subunit alpha [Source:HGNC Symbol;Acc:HGNC:7804]	P23511	DNA-binding transcription factor	CORE
+NFYB	12	4801	ENSG00000120837	7805	nuclear transcription factor Y subunit beta [Source:HGNC Symbol;Acc:HGNC:7805]	P25208	DNA-binding transcription factor	CORE
+NIPBL	5	25836	ENSG00000164190	28862	NIPBL cohesin loading factor [Source:HGNC Symbol;Acc:HGNC:28862]	Q6KC79	chromatin/chromatin-binding, or -regulatory protein	
+NR2C1	12	7181	ENSG00000120798	7971	nuclear receptor subfamily 2 group C member 1 [Source:HGNC Symbol;Acc:HGNC:7971]	P13056	C4 zinc finger nuclear receptor	CORE
+NR2C2	3	7182	ENSG00000177463	7972	nuclear receptor subfamily 2 group C member 2 [Source:HGNC Symbol;Acc:HGNC:7972]	P49116	C4 zinc finger nuclear receptor	CORE
+NR2F1	5	7025	ENSG00000175745	7975	nuclear receptor subfamily 2 group F member 1 [Source:HGNC Symbol;Acc:HGNC:7975]	P10589	C4 zinc finger nuclear receptor	CORE
+NR3C1	5	2908	ENSG00000113580	7978	nuclear receptor subfamily 3 group C member 1 [Source:HGNC Symbol;Acc:HGNC:7978]	P04150	C4 zinc finger nuclear receptor	CORE
+NRF1	7	4899	ENSG00000106459	7996	nuclear respiratory factor 1 [Source:HGNC Symbol;Acc:HGNC:7996]	Q16656	DNA-binding transcription factor	
+PAX5	9	5079	ENSG00000196092	8619	paired box 5 [Source:HGNC Symbol;Acc:HGNC:8619]	Q02548	homeodomain transcription factor	CORE
+PAX8	2	7849	ENSG00000125618	8622	paired box 8 [Source:HGNC Symbol;Acc:HGNC:8622]	Q06710	homeodomain transcription factor	UNVALIDATED
+PBX3	9	5090	ENSG00000167081	8634	PBX homeobox 3 [Source:HGNC Symbol;Acc:HGNC:8634]	P40426	homeodomain transcription factor	CORE
+PKNOX1	21	5316	ENSG00000160199	9022	PBX/knotted 1 homeobox 1 [Source:HGNC Symbol;Acc:HGNC:9022]	P55347	homeodomain transcription factor	CORE
+PML	15	5371	ENSG00000140464	9113	PML nuclear body scaffold [Source:HGNC Symbol;Acc:HGNC:9113]	P29590	ubiquitin-protein ligase	
+RAD21	8	5885	ENSG00000164754	9811	RAD21 cohesin complex component [Source:HGNC Symbol;Acc:HGNC:9811]			
+RAD51	15	5888	ENSG00000051180	9817	RAD51 recombinase [Source:HGNC Symbol;Acc:HGNC:9817]	Q06609	DNA metabolism protein	
+RB1	13	5925	ENSG00000139687	9884	RB transcriptional corepressor 1 [Source:HGNC Symbol;Acc:HGNC:9884]	P06400	chromatin/chromatin-binding, or -regulatory protein	
+RBBP5	1	5929	ENSG00000117222	9888	RB binding protein 5, histone lysine methyltransferase complex subunit [Source:HGNC Symbol;Acc:HGNC:9888]			
+RCOR1	14	23186	ENSG00000089902	17441	REST corepressor 1 [Source:HGNC Symbol;Acc:HGNC:17441]	Q9UKL0	chromatin/chromatin-binding, or -regulatory protein	
+RELA	11	5970	ENSG00000173039	9955	RELA proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9955]	Q04206	Rel homology transcription factor	CORE
+RELB	19	5971	ENSG00000104856	9956	RELB proto-oncogene, NF-kB subunit [Source:HGNC Symbol;Acc:HGNC:9956]	Q01201	Rel homology transcription factor	CORE
+REST	4	5978	ENSG00000084093	9966	RE1 silencing transcription factor [Source:HGNC Symbol;Acc:HGNC:9966]	Q13127	C2H2 zinc finger transcription factor	CORE
+RFX5	1	5993	ENSG00000143390	9986	regulatory factor X5 [Source:HGNC Symbol;Acc:HGNC:9986]	P48382	winged helix/forkhead transcription factor	CORE
+RNF2	1	6045	ENSG00000121481	10061	ring finger protein 2 [Source:HGNC Symbol;Acc:HGNC:10061]	Q99496	ubiquitin-protein ligase	
+RXRA	9	6256	ENSG00000186350	10477	retinoid X receptor alpha [Source:HGNC Symbol;Acc:HGNC:10477]	P19793	C4 zinc finger nuclear receptor	
+SIN3A	15	25942	ENSG00000169375	19353	SIN3 transcription regulator family member A [Source:HGNC Symbol;Acc:HGNC:19353]	Q96ST3	chromatin/chromatin-binding, or -regulatory protein	
+SIX5	19	147912	ENSG00000177045	10891	SIX homeobox 5 [Source:HGNC Symbol;Acc:HGNC:10891]	Q8N196	homeodomain transcription factor	
+SKIL	3	6498	ENSG00000136603	10897	SKI like proto-oncogene [Source:HGNC Symbol;Acc:HGNC:10897]			
+SMAD1	4	4086	ENSG00000170365	6767	SMAD family member 1 [Source:HGNC Symbol;Acc:HGNC:6767]	Q15797	DNA-binding transcription factor	
+SMAD5	5	4090	ENSG00000113658	6771	SMAD family member 5 [Source:HGNC Symbol;Acc:HGNC:6771]	Q99717	DNA-binding transcription factor	CORE
+SMARCA5	4	8467	ENSG00000153147	11101	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5 [Source:HGNC Symbol;Acc:HGNC:11101]	O60264	DNA helicase	
+SMC3	10	9126	ENSG00000108055	2468	structural maintenance of chromosomes 3 [Source:HGNC Symbol;Acc:HGNC:2468]			
+SP1	12	6667	ENSG00000185591	11205	Sp1 transcription factor [Source:HGNC Symbol;Acc:HGNC:11205]	P08047	C2H2 zinc finger transcription factor	CORE
+SREBF1	17	6720	ENSG00000072310	11289	sterol regulatory element binding transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:11289]			CORE
+SREBF2	22	6721	ENSG00000198911	11290	sterol regulatory element binding transcription factor 2 [Source:HGNC Symbol;Acc:HGNC:11290]			CORE
+SRF	6	6722	ENSG00000112658	11291	serum response factor [Source:HGNC Symbol;Acc:HGNC:11291]			CORE
+STAT1	2	6772	ENSG00000115415	11362	signal transducer and activator of transcription 1 [Source:HGNC Symbol;Acc:HGNC:11362]	P42224	DNA-binding transcription factor	CORE
+STAT2	12	6773	ENSG00000170581	11363	signal transducer and activator of transcription 2 [Source:HGNC Symbol;Acc:HGNC:11363]	P52630	DNA-binding transcription factor	
+STAT3	17	6774	ENSG00000168610	11364	signal transducer and activator of transcription 3 [Source:HGNC Symbol;Acc:HGNC:11364]	P40763	DNA-binding transcription factor	CORE
+STAT5A	17	6776	ENSG00000126561	11366	signal transducer and activator of transcription 5A [Source:HGNC Symbol;Acc:HGNC:11366]	P42229	DNA-binding transcription factor	
+SUZ12	17	23512	ENSG00000178691	17101	SUZ12 polycomb repressive complex 2 subunit [Source:HGNC Symbol;Acc:HGNC:17101]	Q15022	chromatin/chromatin-binding, or -regulatory protein	
+TAF1	X	6872	ENSG00000147133	11535	TATA-box binding protein associated factor 1 [Source:HGNC Symbol;Acc:HGNC:11535]			
+TARDBP	1	23435	ENSG00000120948	11571	TAR DNA binding protein [Source:HGNC Symbol;Acc:HGNC:11571]	Q13148	RNA metabolism protein	
+TBL1XR1	3	79718	ENSG00000177565	29529	TBL1X receptor 1 [Source:HGNC Symbol;Acc:HGNC:29529]			
+TBP	6	6908	ENSG00000112592	11588	TATA-box binding protein [Source:HGNC Symbol;Acc:HGNC:11588]	P20226	general transcription factor	
+TBX21	17	30009	ENSG00000073861	11599	T-box transcription factor 21 [Source:HGNC Symbol;Acc:HGNC:11599]	Q9UL17	Rel homology transcription factor	CORE
+TCF12	15	6938	ENSG00000140262	11623	transcription factor 12 [Source:HGNC Symbol;Acc:HGNC:11623]	Q99081	basic helix-loop-helix transcription factor	CORE
+TCF3	19	6929	ENSG00000071564	11633	transcription factor 3 [Source:HGNC Symbol;Acc:HGNC:11633]	P15923	basic helix-loop-helix transcription factor	CORE
+TCF7	5	6932	ENSG00000081059	11639	transcription factor 7 [Source:HGNC Symbol;Acc:HGNC:11639]			CORE
+TP73	1	7161	ENSG00000078900	12003	tumor protein p73 [Source:HGNC Symbol;Acc:HGNC:12003]	O15350	P53-like transcription factor	CORE
+TRIM22	11	10346	ENSG00000132274	16379	tripartite motif containing 22 [Source:HGNC Symbol;Acc:HGNC:16379]	Q8IYM9	ubiquitin-protein ligase	
+TSC22D4	7	81628	ENSG00000166925	21696	TSC22 domain family member 4 [Source:HGNC Symbol;Acc:HGNC:21696]			
+UBTF	17	7343	ENSG00000108312	12511	upstream binding transcription factor [Source:HGNC Symbol;Acc:HGNC:12511]	P17480	DNA-binding transcription factor	
+USF1	1	7391	ENSG00000158773	12593	upstream transcription factor 1 [Source:HGNC Symbol;Acc:HGNC:12593]			CORE
+USF2	19	7392	ENSG00000105698	12594	upstream transcription factor 2, c-fos interacting [Source:HGNC Symbol;Acc:HGNC:12594]			CORE
+WRNIP1	6	56897	ENSG00000124535	20876	WRN helicase interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:20876]	Q96S55	DNA helicase	
+YBX1	1	4904	ENSG00000065978	8014	Y-box binding protein 1 [Source:HGNC Symbol;Acc:HGNC:8014]			UNVALIDATED
+YY1	14	7528	ENSG00000100811	12856	YY1 transcription factor [Source:HGNC Symbol;Acc:HGNC:12856]	P25490	C2H2 zinc finger transcription factor	
+ZBED1	X	9189	ENSG00000214717	447	zinc finger BED-type containing 1 [Source:HGNC Symbol;Acc:HGNC:447]	O96006	DNA metabolism protein	CORE
+ZBTB2	6	57621	ENSG00000181472	20868	zinc finger and BTB domain containing 2 [Source:HGNC Symbol;Acc:HGNC:20868]	Q8N680	C2H2 zinc finger transcription factor	
+ZBTB33	X	10009	ENSG00000177485	16682	zinc finger and BTB domain containing 33 [Source:HGNC Symbol;Acc:HGNC:16682]	Q86T24	C2H2 zinc finger transcription factor	CORE
+ZBTB40	1	9923	ENSG00000184677	29045	zinc finger and BTB domain containing 40 [Source:HGNC Symbol;Acc:HGNC:29045]	Q9NUA8	C2H2 zinc finger transcription factor	UNVALIDATED
+ZEB1	10	6935	ENSG00000148516	11642	zinc finger E-box binding homeobox 1 [Source:HGNC Symbol;Acc:HGNC:11642]	P37275	C2H2 zinc finger transcription factor	CORE
+ZFP36	19	7538	ENSG00000128016	12862	ZFP36 ring finger protein [Source:HGNC Symbol;Acc:HGNC:12862]	P26651	RNA metabolism protein	
+ZMYM3	X	9203	ENSG00000147130	13054	zinc finger MYM-type containing 3 [Source:HGNC Symbol;Acc:HGNC:13054]	Q14202	zinc finger transcription factor	
+ZNF143	11	7702	ENSG00000166478	12928	zinc finger protein 143 [Source:HGNC Symbol;Acc:HGNC:12928]	P52747	C2H2 zinc finger transcription factor	CORE
+ZNF18	17	7566	ENSG00000154957	12969	zinc finger protein 18 [Source:HGNC Symbol;Acc:HGNC:12969]	P17022	C2H2 zinc finger transcription factor	UNVALIDATED
+ZNF207	17	7756	ENSG00000010244	12998	zinc finger protein 207 [Source:HGNC Symbol;Acc:HGNC:12998]	O43670	DNA metabolism protein	
+ZNF217	20	7764	ENSG00000171940	13009	zinc finger protein 217 [Source:HGNC Symbol;Acc:HGNC:13009]	O75362	C2H2 zinc finger transcription factor	
+ZNF24	18	7572	ENSG00000172466	13032	zinc finger protein 24 [Source:HGNC Symbol;Acc:HGNC:13032]	P17028	C2H2 zinc finger transcription factor	CORE
+ZNF274	19	10782	ENSG00000171606	13068	zinc finger protein 274 [Source:HGNC Symbol;Acc:HGNC:13068]	Q96GC6	C2H2 zinc finger transcription factor	CORE
+ZNF384	12	171017	ENSG00000126746	11955	zinc finger protein 384 [Source:HGNC Symbol;Acc:HGNC:11955]	Q8TF68	C2H2 zinc finger transcription factor	CORE
+ZNF592	15	9640	ENSG00000166716	28986	zinc finger protein 592 [Source:HGNC Symbol;Acc:HGNC:28986]			
+ZNF597	16	146434	ENSG00000167981	26573	zinc finger protein 597 [Source:HGNC Symbol;Acc:HGNC:26573]	Q96LX8	C2H2 zinc finger transcription factor	UNVALIDATED
+ZNF622	5	90441	ENSG00000173545	30958	zinc finger protein 622 [Source:HGNC Symbol;Acc:HGNC:30958]	Q969S3	RNA metabolism protein	
+ZNF687	1	57592	ENSG00000143373	29277	zinc finger protein 687 [Source:HGNC Symbol;Acc:HGNC:29277]			
+ZSCAN29	15	146050	ENSG00000140265	26673	zinc finger and SCAN domain containing 29 [Source:HGNC Symbol;Acc:HGNC:26673]	Q8IWY8	C2H2 zinc finger transcription factor	CORE
+ZZZ3	1	26009	ENSG00000036549	24523	zinc finger ZZ-type containing 3 [Source:HGNC Symbol;Acc:HGNC:24523]	Q8IYH5	chromatin/chromatin-binding, or -regulatory protein	
